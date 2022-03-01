@@ -1,0 +1,5 @@
+# hide the node modules
+node_modules
+
+# Hide DS_Store
+.DS_Store
