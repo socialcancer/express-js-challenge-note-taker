@@ -11,6 +11,8 @@ Note Taker is an application that can be used to write and saved notes. This app
 - The main problem I am trying to solve is learning Express.js
 - I learned how to use express.js in a development environment and also take and save notes.
 
+[See the App in Action](https://drive.google.com/drive/folders/1MDBhh0_bzYhzXxn2HoqQA97JWjBjoZ_M?usp=sharing)
+
 ## Acceptance Criteria
 
 - When you open note taker you are presented with a landing page with a link to a notes page.
@@ -29,7 +31,6 @@ This repo is not deployed, please install using Node.js.
     - npm install express
     - npm install path
     - npm install uniqid
-
 ```
 
 ## Usage
@@ -40,5 +41,6 @@ This project has no license
 
 ## Questions
 
-Link to my gitHub:
+Link to my gitHub: https://github.com/socialcancer
+
 Email @ da@creatorfullstack.com
