@@ -33,11 +33,13 @@ This repo is not deployed, please install using Node.js.
     - npm install uniqid
 ```
 
-## Usage
-
 ## License
 
 This project has no license
+
+## Submission
+
+[View the app](https://note-taker562.herokuapp.com/)
 
 ## Questions
 
