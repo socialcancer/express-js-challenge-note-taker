@@ -1,28 +1,34 @@
-# express-js-challenge-note-taker
-
-# <Your-Project-Title>
+# Note Taker
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+Note Taker is an application that can be used to write and saved notes. This application uses Express.js as the backend system.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- As a small business owner I WANT to write and save notes.
+- Built this application as a way to organize my thoughts and keep track of tasks.
+- The main problem I am trying to solve is learning Express.js
+- I learned how to use express.js in a development environment and also take and save notes.
 
-## Table of Contents (Optional)
+## Acceptance Criteria
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+- When you open note taker you are presented with a landing page with a link to a notes page.
+- I am presented with a page with existing notes listed on the left.
+- I enter a new note title and the note's text.
+- Then a Save icon appears in the navigation at the top of the page.
+- The User clicks on the save icon.
+- The Note is I have entered is saved and appears in the left hand column.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+This repo is not deployed, please install using Node.js.
+
+```
+    - npm init -y
+    - npm install express
+    - npm install path
+    - npm install uniqid
+
+```
 
 ## Usage
 
